@@ -1,5 +1,5 @@
 @include('layout.templates.head')
-
+ 
 <main>
     <div class="container">
 
